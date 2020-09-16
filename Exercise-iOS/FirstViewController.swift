@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+//Dashboard (total times, total time)
 class FirstViewController: UIViewController {
 
     override func viewDidLoad() {
